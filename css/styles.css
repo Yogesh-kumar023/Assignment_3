@@ -1,0 +1,117 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #f3eb77;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+/** HEADER **/
+  #header-nav {
+    background-color: rgb(118, 223, 13);
+    border-radius: 0;
+    border:0;
+  }
+
+  /**logo in side header **/
+
+  /** heading **/
+
+  .navbar-header{ /*name*/
+    padding-top: 25px;
+  }
+
+  .navbar-header h1{ /* name */
+    font-family: 'Lora', serif;
+    color: rgb(231, 31, 31);
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    
+  }
+/* for removing underline or line line */
+  .navbar-header a:hover, .navbar-header a:focus{
+    text-decoration: none;
+  }
+  
+  #nav-list {
+  margin-top: 10px;
+}
+#nav-list  {
+  color: rgb(4, 48, 68);
+  text-align: center;
+}
+#nav-list span:hover {
+  background: #E7E7E7;
+}
+#nav-list  span {
+  font-size: 1.8em;
+}
+#nav-list span{
+  font-family: 'Lora', serif;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-family: 'Lora', serif;
+}
+
+/**Styling content **/
+.p1{
+  text-align: justify;
+  color:black;
+  
+  
+}
+.p2{
+  text-align: justify;
+  color:black;  
+}
+.p3{
+  text-align: justify;
+  color:black;
+ 
+}
+/**styling HEading **/
+.a1{
+  text-align: center;
+  color:black;
+  font-family: 'Lora', serif;
+} 
+.a2{
+  text-align: center;
+  color:black;
+  font-family: 'Lora', serif;
+} 
+.a3{
+  text-align: center;
+  color:black;
+  font-family: 'Lora', serif;
+} 
+
+/**Styling background colur of paragraghs **/
+.c1{
+  background-color: grey;
+  border: 1px solid rgb(102, 98, 98);
+  padding:6px;
+  margin:40px;
+  font-family: Balsamiq sans-serif;
+}
+.b1{
+  background-color: grey;
+  border: 1px solid rgb(102, 98, 98);
+  padding:6px;
+  margin:40px;
+  font-family: Balsamiq sans-serif;
+}
+.s1{
+  background-color: grey;
+  border: 1px solid rgb(102, 98, 98);
+  padding:6px;
+  margin:40px;
+  font-family: Balsamiq sans-serif;
+}
